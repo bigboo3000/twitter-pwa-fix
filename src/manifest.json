@@ -10,7 +10,7 @@
   },
 
   "permissions": [
-    "webRequest", "webRequestBlocking", "https://twitter.com/", "https://x.com/"
+    "webRequest", "webRequestBlocking", "https://twitter.com/", "https://x.com/", "https://google.com/"
   ],
 
   "background": {
